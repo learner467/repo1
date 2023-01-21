@@ -5,3 +5,4 @@ ignoreMeFolder/
 *.js
 !app.js
 DS_Store
+my.php
