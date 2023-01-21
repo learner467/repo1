@@ -2,3 +2,6 @@
 
 02dump.txt
 ignoreMeFolder/
+*.js
+!app.js
+DS_Store
