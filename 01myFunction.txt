@@ -5,4 +5,5 @@ i have added a very imp fourth func here .
 
 Created a new chart 
 
+adding a new func to login user via X method 
 Added code for logout 
